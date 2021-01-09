@@ -28,7 +28,8 @@
 + 시간이 난다면 추가해보고 싶은 것
 
   - [ ] JS를 활용한 깔끔한 배열 및 효과
-  - [X] open weather api가 https 에서 안 보이는 에러 해결 : <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"> 
+  - [X] open weather api가 https 에서 안 보이는 에러 해결 
+    ₩<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">₩
   
   
   </br>
