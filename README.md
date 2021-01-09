@@ -11,7 +11,7 @@
 </br>
 
 
-### 1. todoJS [예시] (http://slowth-kim.github.io/todoJS/ , "간단한 투두 리스트 구현")
+### 1. todoJS [예시] (https://slowth-kim.github.io/todoJS/ , "간단한 투두 리스트 구현")
 
 </br>
 
@@ -28,6 +28,7 @@
 + 시간이 난다면 추가해보고 싶은 것
 
   - [ ] JS를 활용한 깔끔한 배열 및 효과
+  - [X] open weather api가 https 에서 안 보이는 에러 해결 : <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"> 
   
   
   </br>
