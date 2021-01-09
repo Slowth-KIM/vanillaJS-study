@@ -29,7 +29,7 @@
 
   - [ ] JS를 활용한 깔끔한 배열 및 효과
   - [X] open weather api가 https 에서 안 보이는 에러 해결 
-    ₩<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">₩
+    ` <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"> `
   
   
   </br>
