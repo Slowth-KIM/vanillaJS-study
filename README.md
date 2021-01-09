@@ -11,7 +11,7 @@
 </br>
 
 
-### 1. todoJS [예시] (https://slowth-kim.github.io/todoJS/ , "간단한 투두 리스트 구현")
+### 1. todoJS [예시] (http://slowth-kim.github.io/todoJS/ , "간단한 투두 리스트 구현")
 
 </br>
 
